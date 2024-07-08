@@ -63,3 +63,5 @@ console.log(text.charAt(0))
 console.log(text.toUpperCase())
 console.log(text.toLowerCase())
 console.log(text.concat(text2))  // to show the different string together
+console.log(text.slice(0,3))  // to pic a set of ward from a string
+console.log(text.slice(3,8)) // to pic a set of ward from a string
